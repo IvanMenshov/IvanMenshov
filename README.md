@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Menshov</h1>
 <h3 align="center">.NET developer from Belarus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanmenshov&label=Profile%20views&color=0e75b6&style=flat" alt="ivanmenshov" /> </p>
-
 - 📫 How to reach me **ivan.menshou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
