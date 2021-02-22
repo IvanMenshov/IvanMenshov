@@ -17,8 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanmenshov&show_icons=true&locale=en" alt="ivanmenshov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmenshov&" alt="ivanmenshov" /></p>
-
 <!--### Hello, I'm Ivan Menshov 👋
 
 #### 📫 How to reach me:
