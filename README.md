@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Ivan Menshov 👋
+
+#### How to reach me:
+
+<a href="https://www.linkedin.com/in/imickovski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ivan.menshou@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
 <!--
 **IvanMenshov/IvanMenshov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
